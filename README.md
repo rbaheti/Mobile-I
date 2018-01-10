@@ -16,6 +16,9 @@
 
 Go to expo.io and download the desktop XDE for developing React Native applications.
 
+Start your project with command: exp init <newfilename>
+Then run command: exp start
+
 Open the design images in `/designs` and replicate those images using the concepts that we have covered.
 
 ## Useful Resources
