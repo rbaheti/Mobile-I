@@ -17,11 +17,11 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <View style={styles.hamContainer}>
           <Hamburger
-            style={{
+            style={
               position: 'absolute',
               left: 1,
               top: 10,
-            }}
+            }
           />
         </View>
         <View style={styles.navContainer}>
